@@ -7,11 +7,11 @@ function HeaderMenu() {
   return (
     
 
-    <div className="flex items-center justify-center border-b border-gray-400 py-8">
+    <div className="flex items-center justify-center  border-b-4 border-sky-700 py-8">
     
       <nav>
         {/* MOBILE_MENU */}
-        <section className="flex lg:hidden">
+        <section className="flex lg:hidden ">
           <div
           //BURGUER ICON
             className="space-y-2 absolute top-0 right-0 px-8 py-8"
